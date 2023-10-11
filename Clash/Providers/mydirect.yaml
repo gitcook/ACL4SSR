@@ -1,0 +1,25 @@
+payload:
+
+#我的直连list
+
+#努努和哔嘀
+ - DOMAIN-SUFFIX,cjkypo.com
+ - DOMAIN-SUFFIX,shanshanku.com
+ - DOMAIN-SUFFIX,cjkypo.com
+ - DOMAIN-SUFFIX,btbdys.com
+ - DOMAIN-SUFFIX,bdys01.com
+# - DOMAIN-SUFFIX,apple.com
+
+ - DOMAIN-SUFFIX,bcebos.com
+ - DOMAIN-SUFFIX,baobuzz.com
+ - DOMAIN-SUFFIX,huoshanvod.com
+ - DOMAIN-SUFFIX,pddugc.com
+ - DOMAIN-SUFFIX,bde4.cc
+ - DOMAIN-SUFFIX,lz-cdn14.com
+ - DOMAIN-SUFFIX,fsvod1.com
+ - DOMAIN-SUFFIX,lz-cdn1.com
+ - DOMAIN-SUFFIX,lz-cdn3.com
+ - DOMAIN,vod.bdys.me
+ - DOMAIN-SUFFIX,speedtest.net
+ - DOMAIN-SUFFIX,wyvps.top
+

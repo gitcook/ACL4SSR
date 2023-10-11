@@ -1,0 +1,81 @@
+payload:
+  # 内容：国内媒体列表
+  # 更新：2022年08月26日
+  # 数量：条
+
+  # 努努和哔嘀
+  #   - DOMAIN-SUFFIX,shanshanku.com
+  #   - DOMAIN-SUFFIX,cjkypo.com
+  #   - DOMAIN-SUFFIX,btbdys.com
+  #   - DOMAIN-SUFFIX,bdys.com
+  #   - DOMAIN-SUFFIX,nunuyy.org
+  - DOMAIN-SUFFIX,nunuyy3.org
+  - DOMAIN-SUFFIX,nunuyy5.org
+  # 小宝
+  - DOMAIN-SUFFIX,xiaoheimi.net
+  - DOMAIN-SUFFIX,xiaobaotv.net
+  - DOMAIN-SUFFIX,if101.tv
+  - DOMAIN,cdn.ghewig.com
+  - DOMAIN,cdn.kaooooo.com
+  # 欧乐
+  - DOMAIN-SUFFIX,olehd.com  
+  - DOMAIN-SUFFIX,olehdtv.com
+  - DOMAIN-SUFFIX,olemovienews.com
+  - DOMAIN-SUFFIX,nunuyy3.org
+
+  - DOMAIN-SUFFIX,xiaoheimi.net
+  - DOMAIN-SUFFIX,if101.tv
+  - DOMAIN,cdn.ghewig.com
+  - DOMAIN,cdn.kaooooo.com
+  - DOMAIN,cdn.vesta4715.com
+  - DOMAIN,cdn.ceres9350.com
+  - DOMAIN,cdn.venus7202.com
+  - DOMAIN,cdn.efhie.com
+
+  - DOMAIN-SUFFIX,olehd.com  
+  - DOMAIN-SUFFIX,olehdtv.com
+  - DOMAIN-SUFFIX,olemovienews.com
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,olelive.com
+
+
+  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-SUFFIX,gohitv.com
+  - DOMAIN-SUFFIX,bygcloud.com
+  - DOMAIN-SUFFIX,coinbase.com
+
+
+  - DOMAIN-SUFFIX,mxwljsq.com
+
+  - DOMAIN-SUFFIX,binance.com
+
+#泥视频
+  - DOMAIN-SUFFIX,nivod.tv
+  - DOMAIN-SUFFIX,biggggg.com
+#泥巴  
+  - DOMAIN-SUFFIX,mudvod.tv
+
+  - DOMAIN-SUFFIX,skk.moe
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,IPInfo.io
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-SUFFIX,bulianglin.com
+  - DOMAIN-SUFFIX,brew.sh
+
+  - DOMAIN-SUFFIX,mushroomtrack.com
+  - DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
+  
+  - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,pikpak.me
+  - DOMAIN-SUFFIX,pikpak.net
+  - DOMAIN-SUFFIX,pikpakdrive.com
+
+  
+  - DOMAIN,apps.apple.com
+  - DOMAIN,itunes.apple.com
+  
