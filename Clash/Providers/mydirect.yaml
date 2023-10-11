@@ -20,6 +20,6 @@ payload:
  - DOMAIN-SUFFIX,lz-cdn1.com
  - DOMAIN-SUFFIX,lz-cdn3.com
  - DOMAIN,vod.bdys.me
- - DOMAIN-SUFFIX,speedtest.net
+# - DOMAIN-SUFFIX,speedtest.net
  - DOMAIN-SUFFIX,wyvps.top
 
