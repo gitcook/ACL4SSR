@@ -76,6 +76,6 @@ payload:
   - DOMAIN-SUFFIX,pikpakdrive.com
 
   
-  - DOMAIN,apps.apple.com
-  - DOMAIN,itunes.apple.com
+  - DOMAIN-SUFFIX,apps.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
   
