@@ -23,3 +23,4 @@ payload:
 # - DOMAIN-SUFFIX,speedtest.net
  - DOMAIN-SUFFIX,wyvps.top
 
+ - DOMAIN,testfiles.ityou.cf
