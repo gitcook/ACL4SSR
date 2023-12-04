@@ -26,4 +26,4 @@ payload:
  - DOMAIN,testfiles.ityou.cf
  - DOMAIN-SUFFIX,wogg.link
  - DOMAIN-SUFFIX,wogg.xyz
- - DOMAIN-SUFFIX,tvfan.xxooo.cf
+ - DOMAIN,tvfan.xxooo.cf
