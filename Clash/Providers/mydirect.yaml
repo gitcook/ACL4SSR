@@ -8,7 +8,7 @@ payload:
  - DOMAIN-SUFFIX,cjkypo.com
  - DOMAIN-SUFFIX,btbdys.com
  - DOMAIN-SUFFIX,bdys01.com
-# - DOMAIN-SUFFIX,apple.com
+
 
  - DOMAIN-SUFFIX,bcebos.com
  - DOMAIN-SUFFIX,baobuzz.com
@@ -26,3 +26,4 @@ payload:
  - DOMAIN,testfiles.ityou.cf
  - DOMAIN-SUFFIX,wogg.link
  - DOMAIN-SUFFIX,wogg.xyz
+ - DOMAIN-SUFFIX,tvfan.xxooo.cf
