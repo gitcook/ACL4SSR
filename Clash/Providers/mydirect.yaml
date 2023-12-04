@@ -24,3 +24,5 @@ payload:
  - DOMAIN-SUFFIX,wyvps.top
 
  - DOMAIN,testfiles.ityou.cf
+ - DOMAIN-SUFFIX,wogg.link
+ - DOMAIN-SUFFIX,wogg.xyz
