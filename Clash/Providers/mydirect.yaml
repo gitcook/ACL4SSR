@@ -31,3 +31,8 @@ payload:
 
 
  - DOMAIN,speedtest.net
+
+ - DOMAIN,tracker.m-team.io
+ - DOMAIN,tra1.m-team.io
+ - DOMAIN,tracker.m-team.cc
+ - DOMAIN,tra1.m-team.io
