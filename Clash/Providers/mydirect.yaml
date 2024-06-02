@@ -46,3 +46,4 @@ payload:
  - DOMAIN,tracker2.icc2022.de
  - DOMAIN,tracker3.icc2022.de
  - IP-CIDR,34.150.104.242/24
+ - IP-CIDR,43.202.64.254/24
