@@ -37,6 +37,8 @@ payload:
  - DOMAIN,tracker.m-team.cc
  - DOMAIN,tra1.m-team.io
 
+ - DOMAIN-SUFFIX,hdkyl.in
+
  - DOMAIN-SUFFIX,icc2022.com
  - DOMAIN,tracker.icc2022.xyz
  - DOMAIN,tracker1.czhch.com
