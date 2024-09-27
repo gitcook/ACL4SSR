@@ -59,3 +59,8 @@ payload:
  - IP-CIDR,43.202.64.254/24
 
 
+ - DOMAIN-SUFFIX,mypikpak.net
+ - DOMAIN-SUFFIX,sandai.net
+ - DOMAIN-SUFFIX,pikpak.me
+ - DOMAIN-SUFFIX,pikpak.net
+ - DOMAIN-SUFFIX,pikpakdrive.com
