@@ -69,11 +69,11 @@ payload:
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
   
-  - DOMAIN-SUFFIX,mypikpak.com
-  - DOMAIN-SUFFIX,sandai.net
-  - DOMAIN-SUFFIX,pikpak.me
-  - DOMAIN-SUFFIX,pikpak.net
-  - DOMAIN-SUFFIX,pikpakdrive.com
+#  - DOMAIN-SUFFIX,mypikpak.com
+#  - DOMAIN-SUFFIX,sandai.net
+#  - DOMAIN-SUFFIX,pikpak.me
+#  - DOMAIN-SUFFIX,pikpak.net
+#  - DOMAIN-SUFFIX,pikpakdrive.com
 
   
 #  - DOMAIN-SUFFIX,apps.apple.com
