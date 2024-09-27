@@ -57,3 +57,9 @@ payload:
  - DOMAIN,tracker3.icc2022.de
  - IP-CIDR,34.150.104.242/24
  - IP-CIDR,43.202.64.254/24
+
+ - DOMAIN-SUFFIX,mypikpak.com
+ - DOMAIN-SUFFIX,sandai.net
+ - DOMAIN-SUFFIX,pikpak.me
+ - DOMAIN-SUFFIX,pikpak.net
+ - DOMAIN-SUFFIX,pikpakdrive.com
