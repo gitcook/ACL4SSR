@@ -68,16 +68,24 @@ payload:
 
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
+    # 以下规则需要海外线路
+  ## 4GTV & Hamivideo
+  - DOMAIN-SUFFIX,4gtv.tv,节点选择
+  - DOMAIN-SUFFIX,hinet.net,节点选择
+  - DOMAIN-SUFFIX,ofiii.com,节点选择
+
+  ## MytvSuper
+  - DOMAIN-SUFFIX,mytvsuper.com,节点选择
+  - DOMAIN-SUFFIX,tvb.com,节点选择
   
- - DOMAIN-SUFFIX,mypikpak.com
+  - DOMAIN-SUFFIX,awstrack.me,节点选择
+  
+  - DOMAIN-SUFFIX,mypikpak.com
 #  - DOMAIN-SUFFIX,sandai.net
 #  - DOMAIN-SUFFIX,pikpak.me
 #  - DOMAIN-SUFFIX,pikpak.net
 #  - DOMAIN-SUFFIX,pikpakdrive.com
 
-  
-#  - DOMAIN-SUFFIX,apps.apple.com
-#  - DOMAIN-SUFFIX,itunes.apple.com
-#  - DOMAIN-SUFFIX,cdn-apple.com
+
   - DOMAIN-SUFFIX,gitcode.com
   
