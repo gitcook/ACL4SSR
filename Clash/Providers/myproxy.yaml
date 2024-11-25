@@ -18,11 +18,6 @@ payload:
   - DOMAIN,cdn.ghewig.com
   - DOMAIN,cdn.kaooooo.com
   # 欧乐
-  - DOMAIN-SUFFIX,olehd.com  
-  - DOMAIN-SUFFIX,olehdtv.com
-  - DOMAIN-SUFFIX,olemovienews.com
-  - DOMAIN-SUFFIX,nunuyy3.org
-
   - DOMAIN-SUFFIX,xiaoheimi.net
   - DOMAIN-SUFFIX,if101.tv
   - DOMAIN,cdn.ghewig.com
@@ -30,14 +25,7 @@ payload:
   - DOMAIN,cdn.vesta4715.com
   - DOMAIN,cdn.ceres9350.com
   - DOMAIN,cdn.venus7202.com
-  - DOMAIN,cdn.efhie.com
-
-  - DOMAIN-SUFFIX,olehd.com  
-  - DOMAIN-SUFFIX,olehdtv.com
-  - DOMAIN-SUFFIX,olemovienews.com
-  - DOMAIN-SUFFIX,olevod.com
-  - DOMAIN-SUFFIX,olelive.com
-
+  - DOMAIN,cdn.efhie.co
 
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,gohitv.com
