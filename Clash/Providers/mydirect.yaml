@@ -41,7 +41,8 @@ payload:
  - DOMAIN,tra1.m-team.io
  - DOMAIN,tracker.m-team.cc
  - DOMAIN,tra1.m-team.io
-
+ - DOMAIN-SUFFIX,m-team.io
+ - DOMAIN-SUFFIX,m-team.cc
  - DOMAIN-SUFFIX,hdkyl.in
  - DOMAIN-SUFFIX,hdkylin.top
  - DOMAIN,tracker.yemapt.org
@@ -66,5 +67,16 @@ payload:
  - DOMAIN-SUFFIX,pikpak.net
  - DOMAIN-SUFFIX,pikpakdrive.com
 
+  ## TPTV
+ - DOMAIN-SUFFIX,mobaibox.com
+ - IP-CIDR,183.207.0.0/16
 
+  ## YSP
+ - DOMAIN-SUFFIX,cctv.cn
+ - DOMAIN-SUFFIX,yangshipin.cn
+
+  ## ITV
+ - DOMAIN-SUFFIX,dnsany.com
+ - DOMAIN-SUFFIX,cmvideo.cn
+ - DOMAIN-SUFFIX,chinamobile.com
 
