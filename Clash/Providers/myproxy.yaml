@@ -14,6 +14,7 @@ payload:
   # 小宝
   - DOMAIN-SUFFIX,xiaoheimi.net
   - DOMAIN-SUFFIX,xiaobaotv.net
+  - DOMAIN-SUFFIX,xiaobaotv.com
   - DOMAIN-SUFFIX,if101.tv
   - DOMAIN,cdn.ghewig.com
   - DOMAIN,cdn.kaooooo.com
