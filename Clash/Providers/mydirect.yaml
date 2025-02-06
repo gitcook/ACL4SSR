@@ -81,4 +81,5 @@ payload:
  - DOMAIN-SUFFIX,dnsany.com
  - DOMAIN-SUFFIX,cmvideo.cn
  - DOMAIN-SUFFIX,chinamobile.com
+ - DOMAIN-SUFFIX,snssdk.com
 
