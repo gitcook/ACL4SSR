@@ -30,7 +30,7 @@ payload:
 
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,gohitv.com
-  - DOMAIN-SUFFIX,bygcloud.com
+ # - DOMAIN-SUFFIX,由gcloud.com
   - DOMAIN-SUFFIX,coinbase.com
 
 
