@@ -44,9 +44,6 @@ payload:
 #泥巴  
   - DOMAIN-SUFFIX,mudvod.tv
 
-  - DOMAIN-SUFFIX,skk.moe
-  - DOMAIN-SUFFIX,ip.sb
-  - DOMAIN-SUFFIX,ip-api.com
   - DOMAIN-SUFFIX,IPInfo.io
   - DOMAIN-SUFFIX,browserleaks.org
   - DOMAIN-SUFFIX,browserleaks.com
@@ -59,15 +56,15 @@ payload:
   - DOMAIN-SUFFIX,xn--ehqx7tcnnope.com
     # 以下规则需要海外线路
   ## 4GTV & Hamivideo
-  - DOMAIN-SUFFIX,4gtv.tv,节点选择
-  - DOMAIN-SUFFIX,hinet.net,节点选择
-  - DOMAIN-SUFFIX,ofiii.com,节点选择
+  - DOMAIN-SUFFIX,4gtv.tv
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,ofiii.com
 
   ## MytvSuper
-  - DOMAIN-SUFFIX,mytvsuper.com,节点选择
-  - DOMAIN-SUFFIX,tvb.com,节点选择
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,tvb.com
   
-  - DOMAIN-SUFFIX,awstrack.me,节点选择
+  - DOMAIN-SUFFIX,awstrack.me
   
   - DOMAIN-SUFFIX,mypikpak.com
 #  - DOMAIN-SUFFIX,sandai.net
